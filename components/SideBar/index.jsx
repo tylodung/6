@@ -21,7 +21,7 @@ class SideBar extends React.Component {
 		<div className='sidebar__link'>
 		<a href='/about/'>Odayaka Web & Advertising</a>
 		<a href='https://odayaka.vn/nangluongmattroi'>Năng lượng mặt trời</a>
-		<a href='https://thuexehonda.com'>Thuê xe Honda Phú Quốc</a>
+		<a href='https://thuexehonda.com'>Thuê xe Honda Đà Lạt</a>
 		<a href='/payments/'>How to pay? Thanh toán</a>
 		<a href='/help'>Hướng dẫn sử dụng</a>
 		</div>
