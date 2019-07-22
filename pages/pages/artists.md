@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục đồ đã có'
+title: 'Danh mục Ăn Uống'
 layout: Artists
 path: '/artists/'
-meta: Danh mục đồ đã có
-keywords: Danh mục đồ đã có
+meta: Danh mục Ăn Uống
+keywords: Danh mục Ăn Uống
 ---

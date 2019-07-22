@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục món đồ nên mua'
+title: 'Danh mục Tham Quan'
 layout: Releases
 path: '/releases/'
-meta: Danh mục món đồ nên mua
-keywords: Danh mục món đồ nên mua
+meta: Danh mục Danh mục Tham Quan
+keywords: Danh mục Danh mục Tham Quan
 ---
